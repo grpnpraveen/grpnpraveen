@@ -7,4 +7,4 @@
 - 📫 How to reach me: grpnpraveen@gmail.com
 - ⚡ Fun fact: Not now
 
-https://img.shields.io/github/stars/grpnpraveen?style=social
+
