@@ -4,7 +4,7 @@
 - ⚡ Fun fact: Not now
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=grpnpraveen&&show_icons=true&title_color=EB7400&icon_color=ADEFD1&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=grpnpraveen&&show_icons=true&title_color=EB7400&icon_color=EB7400&text_color=daf7dc&bg_color=151515">
 
 ### Badges
 <a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
