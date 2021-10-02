@@ -11,4 +11,8 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100>
 </a>
 
+### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=grpnpraveen)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grpnpraveen)](https://github.com/anuraghazra/github-readme-stats)
