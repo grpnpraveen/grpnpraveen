@@ -11,7 +11,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100>
 </a>
 <a href="https://dev.to/badge/hacktoberfest-2021" target="_blank">
-<img src="https://res.cloudinary.com/practicaldev/image/fetc…adge/badge_image/131/hacktoberfest-2021-badge.png" width=100>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=100>
 </a>
 
 ### Trophies
