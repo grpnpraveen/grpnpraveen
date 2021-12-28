@@ -1,8 +1,10 @@
-### Hello Devs 👋
+# Hello Devs 👋
 - 💬 Ask me about pc
 - 📫 How to reach me: grpnpraveen@gmail.com
 - 😁 Fun fact: Not now
-### Things that Interests me :)
+# AboutMe
+I am an enthusiastic programmer, who can program in CPP and python, also familiar with web and android development. I like to learn new things that come in my path.
+# Things that Interests me :)
 - DevOps 😎
 - Problem Solving 🗽
 - 3D 🤘
