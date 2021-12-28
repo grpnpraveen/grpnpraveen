@@ -5,6 +5,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=grpnpraveen&&style=flat-square"/>
 </p>
+
 # AboutMe
 Hello! I am Praveen Gali, an enthusiastic programmer, currently programming in Cpp and Python and develops for web and android. I like to learn new things that come in my path.
 # Things that Interests me :)
