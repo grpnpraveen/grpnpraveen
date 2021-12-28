@@ -2,7 +2,11 @@
 - 💬 Ask me about pc
 - 📫 How to reach me: grpnpraveen@gmail.com
 - 😁 Fun fact: Not now
-
+### Things that Interests me :)
+- DevOps 😎
+- Problem Solving 🗽
+- 3D 🤘
+- Open source :octocat:
 
 <img src="https://github-readme-stats.vercel.app/api?username=grpnpraveen&&show_icons=true&title_color=EB7400&icon_color=EB7400&text_color=daf7dc&bg_color=151515">
 
