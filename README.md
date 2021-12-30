@@ -8,12 +8,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=grpnpraveen&&show_icons=true&title_color=EB7400&icon_color=EB7400&text_color=daf7dc&bg_color=151515">
 
 # AboutMe
-Hello! I am Praveen Gali, an enthusiastic programmer, currently programming in Cpp and Python and develops for web and android. I like to learn new things that come in my path.
+Hello! I am Praveen Gali, an enthusiastic programmer, currently programming in Cpp, Python. Also developing for web and android. I like to learn new things that come in my path.
 # Things that Interests me :)
 - DevOps 😎
 - Problem Solving 🗽
 - 3D 🤘
-- Open source :octocat:
+- Any New Technology :octocat:
 
 # Badges
 <a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
