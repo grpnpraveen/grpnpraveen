@@ -3,7 +3,7 @@
 - 📫 How to reach me: grpnpraveen@gmail.com
 - 😁 Fun fact: Not now
 # Currently
-   I am working on blockchain🔗 development with some frontend framework "React". In addition to this I am trying to be a ok pentester🐱‍💻.
+  Check that here: https://www.linkedin.com/in/gali-ravi-praveen 
 # AboutMe
    I am, an enthusiastic programmer, currently programming in Cpp, Python. Also developing for web and android. I like to learn new things that come in my path.
  
