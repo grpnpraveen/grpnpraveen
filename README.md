@@ -4,6 +4,9 @@
 - 😁 Fun fact: Not now
 # Currently
   Check that here: https://www.linkedin.com/in/gali-ravi-praveen 
+  Check my Pomodoro website: therealpomodoro.online
+  Ongoing portfolio site: https://grpnpraveen.github.io/portfolio/
+  
 # AboutMe
    I am, an enthusiastic programmer, currently programming in Cpp, Python. Also developing for web and android. I like to learn new things that come in my path.
  
