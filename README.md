@@ -5,7 +5,7 @@
 # Currently
   Check that here: https://www.linkedin.com/in/gali-ravi-praveen 
   
-  Check my Pomodoro website: therealpomodoro.online
+  Check my Pomodoro website: https://therealpomodoro.online
   
   Ongoing portfolio site: https://grpnpraveen.github.io/portfolio/
   
