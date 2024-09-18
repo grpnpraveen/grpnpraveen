@@ -1,5 +1,5 @@
 # Hello Devs 👋 Praveen Gali here!
- # portfolio site: https://grpnpraveen.github.io/portfolio/
+ ## portfolio site: https://grpnpraveen.github.io/portfolio/
 - 💬 Ask me about pc
 - 📫 How to reach me: grpnpraveen@gmail.com
 - 😁 Fun fact: Not now
