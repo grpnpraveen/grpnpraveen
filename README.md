@@ -1,4 +1,5 @@
 # Hello Devs 👋 Praveen Gali here!
+ # portfolio site: https://grpnpraveen.github.io/portfolio/
 - 💬 Ask me about pc
 - 📫 How to reach me: grpnpraveen@gmail.com
 - 😁 Fun fact: Not now
@@ -6,8 +7,7 @@
   Check that here: https://www.linkedin.com/in/gali-ravi-praveen 
   
   Check my Pomodoro website: https://therealpomodoro.online
-  
-  Ongoing portfolio site: https://grpnpraveen.github.io/portfolio/
+
   
 # AboutMe
    I am, an enthusiastic programmer, currently programming in Cpp, Python. Also developing for web and android. I like to learn new things that come in my path.
