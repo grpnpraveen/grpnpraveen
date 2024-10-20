@@ -8,7 +8,7 @@
 # Currently
   Check that here: https://www.linkedin.com/in/gali-ravi-praveen 
   
-  Check my Pomodoro website: https://therealpomodoro.online
+  Check my Pomodoro website: [Pomodoro Site](https://grpnpraveen.github.io/therealpomodoro-static-deploy/)
 
   
 # AboutMe
