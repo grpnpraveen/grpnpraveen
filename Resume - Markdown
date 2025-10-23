@@ -7,23 +7,23 @@
 
 ## **Education**
 
-**Stony Brook University**                                                                                                         *Aug 2023 – May 2025*  
-Master of Science in Computer Science, GPA: 3.77                                                                                   *Stony Brook, NY, USA*  
+**Stony Brook University**                                                                                                        [ *AUG 2023 – MAY 2025* ]  
+Master of Science in Computer Science, **GPA: 3.77**                                                                                   *Stony Brook, NY, USA*  
 
-**BML Munjal University**                                                                                                          *Jul 2019 – Jun 2023*  
-Bachelor of Technology in Computer Science and Engineering, GPA: 3.74                                                              *Gurgaon, HR, India*  
+**BML Munjal University**                                                                                                         [ *JUL 2019 – JUN 2023* ]  
+Bachelor of Technology in Computer Science and Engineering, **GPA: 3.74**                                                              *Gurgaon, HR, India*  
 
 ---
 ## **Experience**
 
-**Backend Engineer – Research Project**                                                                                             *Jan 2024 – Dec 2024*  
+**Backend Engineer – Research Project**                                                                                             [ *JAN 2024 – DEC 2024* ]   
 Prof I.V. Ramakrishnan, Stony Brook University                                                                                      *Stony Brook, NY, USA*  
 - **Architected backend** for a high-fidelity **VR simulation**, integrating **Blender** with **Unreal Engine** to enable seamless asset management, reducing simulation setup time by **70%** and enabling **2× faster** generation of training datasets for robotic arms.  
 - Designed a **custom XML parser** to automate object and joint imports, ensuring seamless **ROS integration**.  
 - Engineered a **scalable data pipeline** to log and structure object interactions, enhancing robotic arm training datasets.  
 - **Automated** the conversion of real-world objects into **3D models**, streamlining asset generation for interactive VR environments.  
 
-**Software Engineering Intern**                                                                                                     *Oct 2022 – Apr 2023*  
+**Software Engineering Intern**                                                                                                     [ *OCT 2022 – APR 2023* ]   
 Yubi (Unicorn Startup), Supply Chain Finance Team                                                                                   *Chennai, TN, India*  
 - Programmed client APIs with **Ruby on Rails, PostgreSQL & AWS SNS/SQS (Pub-Sub)** to connect **4 systems** to SCF’s API, boosting integration capabilities & robust async messaging.  
 - Secured data security by implementing robust **AES encryption & decryption** for API communications with **10 banking partners**, ensuring data integrity.  
@@ -31,7 +31,7 @@ Yubi (Unicorn Startup), Supply Chain Finance Team                               
 - Boosted system performance by utilizing **Redis** for database call optimization, resulting in a **7% efficiency gain** and **5% faster response times**.  
 - Accelerated internal workflows by automating manual ticketing processes and client data management through **Forest Admin**, resulting in a **3× improvement** in operational speed.  
 
-**Backend Engineer Intern**                                                                                                         *Apr 2022 – Oct 2022*  
+**Backend Engineer Intern**                                                                                                         [ *Apr 2022 – Oct 2022* ]  
 Sabudh Foundation (Remote), Depression Detection Online                                                                            *Mohali, PB, India*  
 - Engineered a scalable, high-performance online **Depression Detection platform**, leveraging **Python, Flask, Flask Blueprints, OpenCV, NumPy, PostgreSQL, and Psycopg2**, optimizing data processing and real-time analysis for enhanced efficiency.  
 - Spearheaded the design of a relational database architecture featuring **20+ tables** and role-based access control, enabling seamless multi-user interactions with a **20% improvement** in data retrieval speeds.  
@@ -50,8 +50,8 @@ Sabudh Foundation (Remote), Depression Detection Online                         
 - Architected a high-performance **HTTP server** with a multithreaded architecture using **TCP/IP sockets**. Optimized request handling with a **non-blocking I/O model** and connection pooling achieving **40% lower latency** compared to baseline.  
 
 **Movie Recommender** | *MERN, Flask, Neo4j, Apache Spark, Cypher, BERT, IMDB Dataset*  
-- Constructed a scalable movie recommender system with **1.2M+ nodes** and **3.3M+ relationships** in **Neo4j**.  
-- Used **BERT** for semantic analysis and **Apache Spark** for distributed data processing, achieving **92% precision@k**.  
+- Constructed a scalable movie recommender system with **1.2M+ nodes** and **3.3M+ relationships** in **Neo4j**. Used **BERT** for
+semantic analysis and **Apache Spark** for distributed data processing, achieving **92% precision@k**. 
 
 **Capture Attendance** | *Python, Flask, TensorFlow, OpenCV, Dlib, Scikit-learn*  
 - Orchestrated a face recognition attendance system using a fine-tuned **ResNet-50** model, achieving **96% F1-score** on real-time video streams. Optimized **TensorFlow inference** for low-latency performance and managed embedding storage with **MongoDB**.  
