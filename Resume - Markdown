@@ -1,0 +1,69 @@
+# **Ravi Praveen Gali**
+
+
++1 934 799 1114 | ravipraveen.gali@gmail.com |  [linkedin.com/in/gali-ravi-praveen/](https://linkedin.com/in/gali-ravi-praveen/) | [https://grpnpraveen.github.io/portfolio/](https://grpnpraveen.github.io/portfolio/) | Open to Relocation
+
+---
+
+## **Education**
+
+**Stony Brook University**                                                                                                         *Aug 2023 – May 2025*  
+Master of Science in Computer Science, GPA: 3.77                                                                                   *Stony Brook, NY, USA*  
+
+**BML Munjal University**                                                                                                          *Jul 2019 – Jun 2023*  
+Bachelor of Technology in Computer Science and Engineering, GPA: 3.74                                                              *Gurgaon, HR, India*  
+
+---
+## **Experience**
+
+**Backend Engineer – Research Project**                                                                                             *Jan 2024 – Dec 2024*  
+Prof I.V. Ramakrishnan, Stony Brook University                                                                                      *Stony Brook, NY, USA*  
+- **Architected backend** for a high-fidelity **VR simulation**, integrating **Blender** with **Unreal Engine** to enable seamless asset management, reducing simulation setup time by **70%** and enabling **2× faster** generation of training datasets for robotic arms.  
+- Designed a **custom XML parser** to automate object and joint imports, ensuring seamless **ROS integration**.  
+- Engineered a **scalable data pipeline** to log and structure object interactions, enhancing robotic arm training datasets.  
+- **Automated** the conversion of real-world objects into **3D models**, streamlining asset generation for interactive VR environments.  
+
+**Software Engineering Intern**                                                                                                     *Oct 2022 – Apr 2023*  
+Yubi (Unicorn Startup), Supply Chain Finance Team                                                                                   *Chennai, TN, India*  
+- Programmed client APIs with **Ruby on Rails, PostgreSQL & AWS SNS/SQS (Pub-Sub)** to connect **4 systems** to SCF’s API, boosting integration capabilities & robust async messaging.  
+- Secured data security by implementing robust **AES encryption & decryption** for API communications with **10 banking partners**, ensuring data integrity.  
+- Managed **deployment pipelines (Jenkins, GitHub Actions)** for Ruby on Rails applications on **AWS**, deploying and maintaining client-facing APIs with **99.99% uptime** on **AWS API Gateway** for high availability and scalability.  
+- Boosted system performance by utilizing **Redis** for database call optimization, resulting in a **7% efficiency gain** and **5% faster response times**.  
+- Accelerated internal workflows by automating manual ticketing processes and client data management through **Forest Admin**, resulting in a **3× improvement** in operational speed.  
+
+**Backend Engineer Intern**                                                                                                         *Apr 2022 – Oct 2022*  
+Sabudh Foundation (Remote), Depression Detection Online                                                                            *Mohali, PB, India*  
+- Engineered a scalable, high-performance online **Depression Detection platform**, leveraging **Python, Flask, Flask Blueprints, OpenCV, NumPy, PostgreSQL, and Psycopg2**, optimizing data processing and real-time analysis for enhanced efficiency.  
+- Spearheaded the design of a relational database architecture featuring **20+ tables** and role-based access control, enabling seamless multi-user interactions with a **20% improvement** in data retrieval speeds.  
+- Integrated a machine learning pipeline into the backend, leveraging **TensorFlow** and **OpenCV**, achieving **90%+ diagnostic accuracy**, improving depression detection efficiency by **40%**, and enhancing treatment outcome predictions.  
+- Deployed the platform on **AWS**, utilizing **Docker, Kubernetes**, and continuous integration tools (**Jenkins, GitHub Actions**) to enable automated testing, streamlined debugging, and zero-downtime deployments, improving release cycles by **50%**.  
+- Constructed advanced logging and monitoring with **Prometheus** and **Grafana**, ensuring real-time system observability and reducing incident response time by **35%**.  
+
+---
+
+## **Projects**
+
+**Prompt-to-n8n-Automation** | *Next.js, TailwindCSS, MCP SDK, LLM, n8n, Supabase, Railway*  
+- Pioneered the development of an **LLM-enhanced chat platform** employing the **MCP SDK** to transform natural language into configured n8n workflows, resulting in a **4× faster** workflow configuration process.  
+
+**HTTP Server** | *Python, Sockets, TCP/IP, ApacheBench*  
+- Architected a high-performance **HTTP server** with a multithreaded architecture using **TCP/IP sockets**. Optimized request handling with a **non-blocking I/O model** and connection pooling achieving **40% lower latency** compared to baseline.  
+
+**Movie Recommender** | *MERN, Flask, Neo4j, Apache Spark, Cypher, BERT, IMDB Dataset*  
+- Constructed a scalable movie recommender system with **1.2M+ nodes** and **3.3M+ relationships** in **Neo4j**.  
+- Used **BERT** for semantic analysis and **Apache Spark** for distributed data processing, achieving **92% precision@k**.  
+
+**Capture Attendance** | *Python, Flask, TensorFlow, OpenCV, Dlib, Scikit-learn*  
+- Orchestrated a face recognition attendance system using a fine-tuned **ResNet-50** model, achieving **96% F1-score** on real-time video streams. Optimized **TensorFlow inference** for low-latency performance and managed embedding storage with **MongoDB**.  
+
+**URL Transfer** | *Java, Python, Android Studio, MongoDB, Apache Kafka, Docker*  
+- Built a **distributed URL transfer system** with web and Android apps for real-time cross-device link sharing. Used **WebSockets** for low-latency communication and ensured fault tolerance through **horizontal scaling** and message queuing.  
+
+---
+
+## **Technical Skills**
+
+**Languages:** Python, C++, Java, JavaScript, Ruby, SQL, Bash, TypeScript, Golang, HTML  
+**Systems & Databases:** Linux, Docker, Kubernetes, Redis, MySQL, PostgreSQL, MongoDB, Neo4j, DynamoDB, Pinecone  
+**Frameworks:** AWS, Kafka, CI/CD, Jenkins, Android Studio, React, Next.js, Flask, Django, Node.js, REST API, Git, LangChain  
+**Coursework & AI Tools:** Data structures & Algorithms, Database, Operating Systems, Network Security, System Design, Data Visualization, Computer Vision, Cursor, Windsurf, Copilot, Lovable, Bolt, Replit, n8n
